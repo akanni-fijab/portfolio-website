@@ -15,13 +15,13 @@ languageCode = 'en-US'
 
   [[menus.main]]
     name = 'my links'
-    pageRef = '/open-source'
+    pageRef = '/my_links'
     weight = 2
 
 
   [[menus.main]]
     name = 'hobbies'
-    pageRef = '/me'
+    pageRef = '/hobbies'
     weight = 3
 
 [module]
