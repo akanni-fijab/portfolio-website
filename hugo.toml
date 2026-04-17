@@ -1,5 +1,5 @@
 theme = 'digio-theme'
-title = "yeah"
+title = "portfolio"
 
 baseURL = 'https://portfolio.akanni.dev/'
 languageCode = 'en-US'
