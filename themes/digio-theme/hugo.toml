@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://portfolio.akanni.dev/'
 languageCode = 'en-US'
-title = '˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚'
+title = '˚₊‧꒰ა welcome to my Personal Website ໒꒱ ‧₊˚'
 
 [menus]
   [[menus.main]]
