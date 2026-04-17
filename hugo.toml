@@ -20,7 +20,7 @@ languageCode = 'en-US'
 
 
   [[menus.main]]
-    name = 'hobbssssssssssies'
+    name = 'hobbies'
     pageRef = '/me'
     weight = 3
 
