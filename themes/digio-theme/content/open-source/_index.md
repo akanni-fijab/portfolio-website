@@ -1,6 +1,6 @@
 +++
-title = "⋅˚₊‧ ୨ contributions index ୧ ‧₊˚ ⋅"
+title = "⋅˚₊‧ ୨ Linkssss!!! ୧ ‧₊˚ ⋅"
 externalLinks = [
-  { title = "external example", url = "https://gohugo.io/", date = "2025-04-17", icon = "/contribute.png", teaser = "Teaser for your external link" },
+  { title = "Github", url = "https://github.com/akanni-fijab/", date = "2024-12-21", icon = "/contribute.png", teaser = "My Public Github Repository" },
 ]
 +++
