@@ -25,7 +25,7 @@ languageCode = 'en-US'
     weight = 3
 
     [[menus.main]]
-    name = 'open source 🗿'
+    name = 'open source 🗿🗿'
     pageRef = '/open_source'
     weight = 4
 
