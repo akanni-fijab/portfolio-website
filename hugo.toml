@@ -4,7 +4,7 @@ title = "portfolio"
 baseURL = 'https://portfolio.akanni.dev/'
 languageCode = 'en-US'
 # title = '˚₊‧꒰ა welcome to my Personal Website ໒꒱ ‧₊˚'
-
+#22222
 [menus]
   [[menus.main]]
     name = 'home'
