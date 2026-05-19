@@ -2,12 +2,12 @@
 title = "me"
 layout = "me"
 likes = [
+  "**Linux**",
   "Reading",
   "Progrmamming",
   "Maths",
   "Anime",
   "Manga",
-  "**Linux**"
   ]
 
 dislikes = [
