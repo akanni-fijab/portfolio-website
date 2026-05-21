@@ -8,7 +8,6 @@ likes = [
   "Maths",
   "Anime",
   "Manga",
-  "counselling"
   ]
 
 dislikes = [
