@@ -5,7 +5,7 @@ introTitle = "I am Al Hassan Oluwatobi Fijabi!"
 introBody = "I am passionate Software Developer with 2 years of experience that loves to create functional Software,tinker with linux and solve problems that users didn't know needed solving"
 
 statusImage = "/status.png"
-statusText = "Currently Learing Fileio In Python..."
+statusText = "Classes"
 
 watchingImage = "/watching.png"
 watchingText = "Harvard CS50’s Introduction to Programming with Python"
